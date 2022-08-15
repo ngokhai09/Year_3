@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiTHPT", "ThiTHPT\ThiTHPT.csproj", "{FCCDBC2A-91E2-41FB-A75D-86FD1A1FE44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCDBC2A-91E2-41FB-A75D-86FD1A1FE44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCDBC2A-91E2-41FB-A75D-86FD1A1FE44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCDBC2A-91E2-41FB-A75D-86FD1A1FE44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCDBC2A-91E2-41FB-A75D-86FD1A1FE44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D48670C-B941-4CA0-96CF-492C754ABE49}
+	EndGlobalSection
+EndGlobal

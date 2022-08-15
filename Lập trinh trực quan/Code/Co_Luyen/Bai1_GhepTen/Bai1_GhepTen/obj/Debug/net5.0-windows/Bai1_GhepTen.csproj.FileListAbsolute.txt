@@ -1,0 +1,36 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.deps.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.runtimeconfig.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.runtimeconfig.dev.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\ref\Bai1_GhepTen.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.AssemblyInfoInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.AssemblyInfo.cs
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\ref\Bai1_GhepTen.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ThucHanh\Buoi1\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.genruntimeconfig.cache
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.exe
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.deps.json
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.runtimeconfig.json
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.runtimeconfig.dev.json
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.dll
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\ref\Bai1_GhepTen.dll
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\bin\Debug\net5.0-windows\Bai1_GhepTen.pdb
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.Form1.resources
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.GenerateResource.cache
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.AssemblyInfoInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.AssemblyInfo.cs
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.dll
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\ref\Bai1_GhepTen.dll
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.pdb
+D:\Năm 3\Lập trinh trực quan\Code\Co_Luyen\Bai1_GhepTen\Bai1_GhepTen\obj\Debug\net5.0-windows\Bai1_GhepTen.genruntimeconfig.cache

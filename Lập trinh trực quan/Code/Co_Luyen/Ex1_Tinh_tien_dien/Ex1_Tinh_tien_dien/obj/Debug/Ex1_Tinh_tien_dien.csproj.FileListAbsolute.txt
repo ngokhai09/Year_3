@@ -1,0 +1,20 @@
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.exe.config
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.exe
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.pdb
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.AssemblyReference.cache
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.Form1.resources
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.Properties.Resources.resources
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.GenerateResource.cache
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.CoreCompileInputs.cache
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.exe
+C:\Users\khain\source\repos\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.pdb
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.exe.config
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.exe
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\bin\Debug\Ex1_Tinh_tien_dien.pdb
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.Form1.resources
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.Properties.Resources.resources
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.GenerateResource.cache
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.exe
+D:\Năm 3\Lập trinh trực quan\Code\Ex1_Tinh_tien_dien\Ex1_Tinh_tien_dien\obj\Debug\Ex1_Tinh_tien_dien.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GiaoTrinh_Ex12/1.0.0": {
+        "runtime": {
+          "GiaoTrinh_Ex12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GiaoTrinh_Ex12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

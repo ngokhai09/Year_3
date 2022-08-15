@@ -1,0 +1,7 @@
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\obj\Debug\ThiTHPT.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\obj\Debug\ThiTHPT.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\bin\Debug\ThiTHPT.exe.config
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\bin\Debug\ThiTHPT.exe
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\bin\Debug\ThiTHPT.pdb
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\obj\Debug\ThiTHPT.exe
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\ThiTHPT\ThiTHPT\obj\Debug\ThiTHPT.pdb

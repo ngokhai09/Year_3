@@ -1,0 +1,36 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.deps.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.runtimeconfig.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.runtimeconfig.dev.json
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\ref\Bai10_GiaiPT.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.AssemblyInfoInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.AssemblyInfo.cs
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\ref\Bai10_GiaiPT.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTVN\Tuan4\Winform_CoBan\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.genruntimeconfig.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.Form1.resources
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.GenerateResource.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.AssemblyInfoInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.AssemblyInfo.cs
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.dll
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\ref\Bai10_GiaiPT.dll
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.pdb
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.exe
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.deps.json
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.runtimeconfig.json
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.runtimeconfig.dev.json
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.dll
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\ref\Bai10_GiaiPT.dll
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\bin\Debug\net5.0-windows\Bai10_GiaiPT.pdb
+D:\Năm 3\Lập trinh trực quan\Code\ThucHanh\Bai10_GiaiPT\Bai10_GiaiPT\obj\Debug\net5.0-windows\Bai10_GiaiPT.genruntimeconfig.cache

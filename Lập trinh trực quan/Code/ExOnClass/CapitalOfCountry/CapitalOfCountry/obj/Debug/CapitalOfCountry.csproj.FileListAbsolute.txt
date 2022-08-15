@@ -1,0 +1,10 @@
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\bin\Debug\CapitalOfCountry.exe.config
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\bin\Debug\CapitalOfCountry.exe
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\bin\Debug\CapitalOfCountry.pdb
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.Properties.Resources.resources
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.csproj.GenerateResource.cache
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.exe
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.pdb
+D:\Năm 3\Lập trinh trực quan\Code\ExOnClass\CapitalOfCountry\CapitalOfCountry\obj\Debug\CapitalOfCountry.Form1.resources

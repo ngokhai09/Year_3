@@ -1,0 +1,29 @@
+- Máy A gửi đến máy B 5000 byte 
+ + chốt 1: 5000/1500 = 4 gói tin trong đó:
+	* gói 1:1480 byte
+	* gói 2:1480 byte
+	* gói 3:1480 byte
+	* gói 4:560 byte
+ + chốt 2: 
+	*gói 1: 
+		gói 1.1: 1280 byte
+		gói 1.2: 200 byte
+	*gói 2:
+		gói 2.1: 1280 byte 
+		gói 2.2: 200 byte 
+	*gói 3: 
+		gói 3.1: 1280 byte 
+		gói 3.2: 200 byte 
+=> Tổng  = 5220 byte
+
+
+Phân đoạn mạng 1 (MTU=1500) cần chuyển 7000 bytes data  nên  phải chia thành 5
+datagram (d1, d2, d3, d4 chuyển được 1480 x 4 = 5920 byte data; d5 chuyển nốt 1080 bytes
+data cuối cùng).
+- Ở phân đoạn mạng 2 (MTU=1200) mỗi datagram d1, d2, d3, d4 lại bị chia thành 2
+datagram nhỏ hơn là d11, d12, d21, d22, d31, d32, d41, d42 trong đó:
++ d11, d21, d31, d41 mỗi datagram chuyển 1180 byte data.
++ d12, d22, d32, d42 mỗi datagram chuyển 300 byte data
+B nhận tổng cộng 9 datagram: d11, d12, d21, d22, d31, d32, d41, d42 và d5.
+
+Datagram thứ 2 B nhận được là d12 chứa 300 byte dữ liệu

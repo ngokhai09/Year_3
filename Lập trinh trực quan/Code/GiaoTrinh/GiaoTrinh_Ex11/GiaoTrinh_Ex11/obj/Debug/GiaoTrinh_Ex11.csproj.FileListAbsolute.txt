@@ -1,0 +1,15 @@
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\bin\Debug\GiaoTrinh_Ex11.exe.config
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\bin\Debug\GiaoTrinh_Ex11.exe
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\bin\Debug\GiaoTrinh_Ex11.pdb
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\bin\Debug\Interop.WMPLib.dll
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\bin\Debug\AxInterop.WMPLib.dll
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\Interop.WMPLib.dll
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\AxInterop.WMPLib.dll
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.csproj.ResolveComReference.cache
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.Form1.resources
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.Properties.Resources.resources
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.csproj.GenerateResource.cache
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.exe
+D:\Năm 3\Lập trinh trực quan\Code\GiaoTrinh_Ex11\GiaoTrinh_Ex11\obj\Debug\GiaoTrinh_Ex11.pdb
